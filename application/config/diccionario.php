@@ -19,6 +19,9 @@ $base_url = $CI->config->base_url();
  define('__URL_BOOTSTRAP_JS',$base_url.'assets/bootstrap/js/bootstrap.min.js');
  define('__URL_JQUERY',$base_url.'assets/js/jquery.js');
  define('__URL_CSS',$base_url.'assets/css');
+ define('__URL_CSS_SIDEBAR',$base_url.'assets/css/sidebar.css');
  define('__URL_IMAGES',$base_url . 'assets/media/images');
  define('__URL_VIDEOS',$base_url . 'assets/media/videos');
  define('__URL_FONTAWESOME',$base_url . 'assets/fontawesome/font-awesome.css');
+
+
